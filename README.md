@@ -25,10 +25,10 @@ The website is built using pure HTML and CSS, making it lightweight and easy to 
 4. Navigate to the other pages using the links in the navigation bar.
 
 
--To view the website, open the index.html file in your browser. This will take you to the home page of the website.
--The home page contains a list of properties available for sale, as well as owner info with their projects.
--The contact page contains a contact form where users can submit inquiries to the website owner.
--The about page contains information about the website owner and their experience in the real estate industry.
+- To view the website, open the index.html file in your browser. This will take you to the home page of the website.
+- The home page contains a list of properties available for sale, as well as owner info with their projects.
+- The contact page contains a contact form where users can submit inquiries to the website owner.
+- The about page contains information about the website owner and their experience in the real estate industry.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork this repository and submit a pull request.
